@@ -1,0 +1,4 @@
+Placeholder for hero video.
+Download the actual hero.mp4 from https://x8.adencys.com/video/hero.mp4
+Place it at: public/video/hero.mp4
+Recommended: 1920x1080, 15-20s, <10MB, seamless loop
